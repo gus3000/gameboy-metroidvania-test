@@ -14,4 +14,4 @@
 3. Go to your github project settings
 4. In the left menu go to "Pages". You should now be at url like `https://github.com/MY_USERNAME/MY_PROJECT/settings/pages`.
 5. Enable Github Pages
-6. Set the branch to "gh-pages"
+6. Set the source to "Github Actions"
