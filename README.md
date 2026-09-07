@@ -15,3 +15,4 @@
 4. In the left menu go to "Pages". You should now be at url like `https://github.com/MY_USERNAME/MY_PROJECT/settings/pages`.
 5. Enable Github Pages
 6. Set the source to "Github Actions"
+7. In Settings > Actions > General, in the category "Workflow permissions" give read and write permissions and save
